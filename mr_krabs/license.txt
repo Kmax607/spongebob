@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mr Krabs
+* source:	https://sketchfab.com/3d-models/mr-krabs-b5c000294b084ad5b3439c9e0738bcb4
+* author:	BenAissa_Karim (https://sketchfab.com/BenAissa_Karim)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mr Krabs" (https://sketchfab.com/3d-models/mr-krabs-b5c000294b084ad5b3439c9e0738bcb4) by BenAissa_Karim (https://sketchfab.com/BenAissa_Karim) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

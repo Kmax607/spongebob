@@ -4,12 +4,11 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bwcyvy8x0kcc6"
-path="res://.godot/imported/patrick.blend-854658b87de5544106fe87a70b90011d.scn"
+valid=false
 
 [deps]
 
 source_file="res://data/bikini/blender/patrick.blend"
-dest_files=["res://.godot/imported/patrick.blend-854658b87de5544106fe87a70b90011d.scn"]
 
 [params]
 

@@ -4,12 +4,11 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://de4avuyywx81e"
-path="res://.godot/imported/bikini_bottom_no_sky.blend-8ba851e4d6b3df73b97c316b09111e04.scn"
+valid=false
 
 [deps]
 
 source_file="res://data/bikini/blender/bikini_bottom_no_sky.blend"
-dest_files=["res://.godot/imported/bikini_bottom_no_sky.blend-8ba851e4d6b3df73b97c316b09111e04.scn"]
 
 [params]
 
